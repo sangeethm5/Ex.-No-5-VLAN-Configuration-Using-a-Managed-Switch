@@ -64,6 +64,19 @@ ________________________________________
 •	PC IP settings<br>
 •	Successful ping between PCs in the same VLAN<br>
 •	Failed ping between PCs in different VLANs<br>
+
+<img width="1916" height="1013" alt="image" src="https://github.com/user-attachments/assets/eeaa1335-7513-44a3-aa05-7f19cf7be05f" />
+
+
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/8ed7271a-d1e7-4f7d-af31-985d1f4bead3" />
+
+
+<img width="1916" height="1012" alt="image" src="https://github.com/user-attachments/assets/4a788c68-a41c-4be1-9a1a-caa9a6e88ec0" />
+
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/d5e3acda-d411-4de5-8f9e-59bec1b412ac" />
+
+
 ________________________________________
 # Result
 Successfully created and configured VLANs on a managed switch. Verified that only PCs within the same VLAN could communicate with each other.
